@@ -1,4 +1,5 @@
 @tool
+@icon("./icon.svg")
 extends Window
 
 @export var script_path: LineEdit
